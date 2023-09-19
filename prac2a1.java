@@ -1,4 +1,5 @@
-class prac2a
+// Arithmetic Operator
+class prac2a1
 {
 public static void main(String args[])
 {
